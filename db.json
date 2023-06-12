@@ -1,0 +1,53 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Angel",
+      "apellido": "De La Torre",
+      "telefono": 102013313,
+      "email": "angel@correo.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 2,
+      "nombre": "Roxana",
+      "apellido": "Montaño",
+      "telefono": 138198313,
+      "email": "roxana@correo.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 3,
+      "nombre": "Irma",
+      "apellido": "Caifa",
+      "telefono": 31983913,
+      "email": "irma@correo.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 4,
+      "nombre": "Majo",
+      "apellido": "Guzman",
+      "telefono": 319381983,
+      "email": "majo@correo.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 5,
+      "nombre": "Jack",
+      "apellido": "De La Torre",
+      "telefono": 1398198938,
+      "email": "jack@correo.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Toby",
+      "apellido": "Rojas",
+      "empresa": "Codigo Con Juan",
+      "email": "toby@correo.com",
+      "telefono": "317578660",
+      "notas": "Karen desea una nueva rest API",
+      "id": 6
+    }
+  ]
+}
